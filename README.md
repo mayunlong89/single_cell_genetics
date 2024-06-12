@@ -5,7 +5,9 @@
 
 We developed a series of bioinformatic tools and computational frameworks to linking genetic risk signals from GWAS summary statistics with single-cell sequencing data, including scPagwas, scHOB, ctDTRF, scRegwas and scDrugHunter.
 
+##
 
+##
 
 
 ### Citations
@@ -20,8 +22,8 @@ We developed a series of bioinformatic tools and computational frameworks to lin
 
 5. Ma et al., Integrating single-cell sequencing data with GWAS summary statistics reveals CD16+monocytes and memory CD8+T cells involved in severe COVID-19. `Genome Medicine`, 2022. see [Ma et al., Genome Medicine, 2022](https://link.springer.com/article/10.1186/s13073-022-01021-1), and see related [Github codes](https://github.com/mayunlong89/COVID19_scRNA).
 
-6. Meta-analysis of large-scale GWAS data to uncover novel loci for COVID-19. see [Ma et al. Human Molecular Genetics, 2021](https://academic.oup.com/hmg/article/30/13/1247/6265026), and see related [Github codes](https://github.com/mayunlong89/Host_genetics_for_COVID-19).
+6. Ma et al., Integrative genomics analysis reveals a 21q22. 11 locus contributing risk to COVID-19. see [Ma et al. Human Molecular Genetics, 2021](https://academic.oup.com/hmg/article/30/13/1247/6265026), and see related [Github codes](https://github.com/mayunlong89/Host_genetics_for_COVID-19).
    
-7. COVID-19 Quarantine Reveals That Behavioral Changes Have an Effect on Myopia Progression. see [Xu, Ma et al. Ophthalmology, 2021](https://www.sciencedirect.com/science/article/pii/S0161642021002578), see related [Github codes](https://github.com/mayunlong89/MIES).
+7. Xu and Ma et al. COVID-19 Quarantine Reveals That Behavioral Changes Have an Effect on Myopia Progression. see [Xu, Ma et al. Ophthalmology, 2021](https://www.sciencedirect.com/science/article/pii/S0161642021002578), see related [Github codes](https://github.com/mayunlong89/MIES).
 
 
