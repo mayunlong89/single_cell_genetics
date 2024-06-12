@@ -2,7 +2,12 @@
 
 
 
-# Citations
+We developed a series of bioinformatic tools and computational frameworks to linking genetic risk signals from GWAS summary statistics with single-cell sequencing data, including scPagwas, scHOB, ctDTRF, scRegwas and scDrugHunter.
+
+
+
+
+### Citations
 1. Ma et al., Polygenic network enrichment identifies cellular context-specific regulons relevant to diseases by integration of single-cell multiomic data, `medRvix`, 2024
 
 2. Ma et al., Sytematic dissection of pleiotropic loci and critical regulons in exhibitory neurons and microglia relevant to neuropsychiatric and ocular diseases, [Research Square](https://www.researchsquare.com/article/rs-4514542/v1), 2024.
