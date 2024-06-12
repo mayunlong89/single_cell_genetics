@@ -1,4 +1,5 @@
-# Revealing genetic componenets of complex diseases or traits in specific cellular context
+# Computational methods
+## Revealing genetic componenets of complex diseases or traits in specific cellular context
 
 
 
