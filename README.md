@@ -24,6 +24,4 @@ We developed a series of bioinformatic tools and computational frameworks to lin
 
 6. Ma et al., Integrative genomics analysis reveals a 21q22. 11 locus contributing risk to COVID-19. `Human Molecular Genetics`, 2024. see [Ma et al. Human Molecular Genetics, 2021](https://academic.oup.com/hmg/article/30/13/1247/6265026), and see related [Github codes](https://github.com/mayunlong89/Host_genetics_for_COVID-19).
    
-7. Xu and Ma et al. COVID-19 Quarantine Reveals That Behavioral Changes Have an Effect on Myopia Progression, `Ophthalmology`, 2024. see [Xu, Ma et al. Ophthalmology, 2021](https://www.sciencedirect.com/science/article/pii/S0161642021002578), see related [Github codes](https://github.com/mayunlong89/MIES).
-
 
